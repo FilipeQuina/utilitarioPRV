@@ -38,6 +38,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.lst_historico = new System.Windows.Forms.ListView();
+            this.Historico = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btn_limpar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -132,11 +135,39 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Limpador de caracteres";
             // 
+            // lst_historico
+            // 
+            this.lst_historico.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.Historico});
+            this.lst_historico.Location = new System.Drawing.Point(275, 127);
+            this.lst_historico.Name = "lst_historico";
+            this.lst_historico.Size = new System.Drawing.Size(133, 208);
+            this.lst_historico.TabIndex = 9;
+            this.lst_historico.UseCompatibleStateImageBehavior = false;
+            this.lst_historico.View = System.Windows.Forms.View.Details;
+            // 
+            // Historico
+            // 
+            this.Historico.Text = "Histórico";
+            this.Historico.Width = 128;
+            // 
+            // btn_limpar
+            // 
+            this.btn_limpar.Location = new System.Drawing.Point(414, 127);
+            this.btn_limpar.Name = "btn_limpar";
+            this.btn_limpar.Size = new System.Drawing.Size(75, 23);
+            this.btn_limpar.TabIndex = 10;
+            this.btn_limpar.Text = "Limpar";
+            this.btn_limpar.UseVisualStyleBackColor = true;
+            this.btn_limpar.Click += new System.EventHandler(this.btn_limpar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(516, 347);
+            this.Controls.Add(this.btn_limpar);
+            this.Controls.Add(this.lst_historico);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
@@ -159,6 +190,9 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.ListView lst_historico;
+        private System.Windows.Forms.ColumnHeader Historico;
+        private System.Windows.Forms.Button btn_limpar;
     }
 }
 

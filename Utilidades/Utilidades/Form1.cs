@@ -75,6 +75,14 @@ namespace Utilidades
         private void CnpjInicio_TextChanged(object sender, EventArgs e)
         {          
             CnpjFim.Text = CnpjInicio.Text.Replace("-", "").Replace(".", "").Replace("/", "").Replace(" ","");
+
+            lst_historico.Items.Add(CnpjFim.Text);
+                
+        }
+
+        private void btn_limpar_Click(object sender, EventArgs e)
+        {
+            lst_historico.Items.Clear();
         }
     }
 }
