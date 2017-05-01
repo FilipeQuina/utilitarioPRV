@@ -1,0 +1,18 @@
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\bin\Debug\Utilidades.exe.config
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\bin\Debug\Utilidades.exe
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\obj\Debug\Utilidades.Form1.resources
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.Cache
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\obj\Debug\Utilidades.exe
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Filipe\documents\visual studio 2015\Projects\Utilidades\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\bin\Debug\Utilidades.exe.config
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.exe
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\bin\Debug\Utilidades.exe
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.Form1.resources
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
+C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.Cache
