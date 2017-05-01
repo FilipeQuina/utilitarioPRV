@@ -16,3 +16,12 @@ C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debu
 C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.Form1.resources
 C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
 C:\Users\Filipe\Desktop\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.Cache
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\bin\Debug\Utilidades.exe.config
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.exe
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.pdb
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\bin\Debug\Utilidades.exe
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\bin\Debug\Utilidades.pdb
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.Form1.resources
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.Properties.Resources.resources
+D:\ProjetosGit\utilitarioPRV\Utilidades\Utilidades\obj\Debug\Utilidades.csproj.GenerateResource.Cache

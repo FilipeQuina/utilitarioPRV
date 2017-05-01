@@ -48,6 +48,7 @@ namespace Utilidades
 
                             linha[1] = linha[1].Trim();
                             Funcionario funcionario = new Funcionario(linha[0], linha[1], linha[2], true);
+                            funcionarios.Add(funcionario);
                         }
                        
                 }
