@@ -84,5 +84,11 @@ namespace Utilidades
         {
             lst_historico.Items.Clear();
         }
+
+        private void lst_historico_DoubleClick(object sender, EventArgs e)
+        {
+            String select = lst_historico.SelectedItems[0].Text;
+            Clipboard.SetText(select);
+        }
     }
 }

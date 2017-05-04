@@ -139,12 +139,16 @@
             // 
             this.lst_historico.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.Historico});
+            this.lst_historico.FullRowSelect = true;
+            this.lst_historico.GridLines = true;
+            this.lst_historico.LabelEdit = true;
             this.lst_historico.Location = new System.Drawing.Point(275, 127);
             this.lst_historico.Name = "lst_historico";
             this.lst_historico.Size = new System.Drawing.Size(133, 208);
             this.lst_historico.TabIndex = 9;
             this.lst_historico.UseCompatibleStateImageBehavior = false;
             this.lst_historico.View = System.Windows.Forms.View.Details;
+            this.lst_historico.DoubleClick += new System.EventHandler(this.lst_historico_DoubleClick);
             // 
             // Historico
             // 
